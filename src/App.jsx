@@ -1,10 +1,12 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
 
   return (
     <main>
+      <header>
+        
+      </header>
       
     </main>
   )
